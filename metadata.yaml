@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44367#The-Mentor--Walter-Scott-Vol.-4-Num.-15-Serial-No.-115-September-15-1916
 gutenberg_issued: '2013-12-05'
 gutenberg_type: Text
 identifiers:
