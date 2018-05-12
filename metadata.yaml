@@ -1,0 +1,28 @@
+_repo: The-Mentor--Walter-Scott-Vol.-4-Num.-15-Serial-No.-115-September-15-1916_44367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scott, Walter, 1771-1832'
+- !lcc 'PR'
+title: 'The Mentor: Walter Scott, Vol. 4, Num. 15, Serial No. 115, September 15, 1916'
+url: http://www.gutenberg.org/ebooks/44367
